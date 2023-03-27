@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petergelatt
 - 👀 I’m interested in software engineering and web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on beginner projects in python
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on beginner projects in Javascript
 - 📫 How to reach me petergelatt@gmail.com
 
 <!---
